@@ -1,0 +1,36 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build-*/
+build/
+bin/
+debug/
+release/
+Makefile
+Makefile.*
+*.obj
+*.o
+*.moc
+*.pch
+*.idb
+*.pdb
+*.ilk
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Databases
+*.db
+*.sqlite
+
+# Large executables and installers
+*.exe
+Resources/
