@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/Logo">
+        <file>Resources/logo.png</file>
+        <file>Resources/show.png</file>
+        <file>Resources/hide.png</file>
+        <file>Resources/admin.png</file>
+        <file>Resources/delete.png</file>
+        <file>Resources/edit.png</file>
+        <file>Resources/info.png</file>
+        <file>Resources/stash.png</file>
+        <file>Resources/logout.png</file>
+        <file>Resources/erase.png</file>
+        <file>Resources/search.png</file>
+        <file>Resources/accountsettings.png</file>
+        <file>Resources/history.png</file>
+        <file>Resources/select.png</file>
+        <file>Resources/seat.png</file>
+        <file>Resources/plus.png</file>
+        <file>Resources/Bus1.png</file>
+        <file>Resources/done.png</file>
+        <file>Resources/logo2.png</file>
+        <file>Resources/purchase.png</file>
+        <file>Resources/noresults.png</file>
+        <file>Resources/login.png</file>
+        <file>Resources/register.png</file>
+    </qresource>
+</RCC>
